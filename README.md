@@ -1,6 +1,7 @@
 ### Olá!
 
 - 💻 Estudante de Ciência da Computação (UFMS)
+- 💻 Desenvolvedora Júnior
 
 <div style="display: inline_block">
   <h2> Tecnologias: </h2>
